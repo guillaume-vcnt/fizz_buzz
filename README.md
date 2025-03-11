@@ -1,4 +1,4 @@
-Fizz Buzz
+# Fizz Buzz
 
 ## À propos
 
